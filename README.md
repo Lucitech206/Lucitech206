@@ -1,5 +1,5 @@
-## Hey there 👋
-I'm Lucielle, a Student living in Germany.
+## Hey there 👋  
+I'm Lucielle, a Student living in Germany.  
 Aspiring software engineer in Python.
 <!--
 **Lucitech206/Lucitech206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
